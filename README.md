@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hammadbob
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Project
+- 💞️ I want to do work on projects!
+-
 - 📫 How to reach me dashboby07@gmail.com
 
 <!---
